@@ -10129,9 +10129,9 @@
   "version" "6.0.9"
 
 "react-hook-form@^7.3.4":
-  "integrity" "sha512-xreG3NHFlbKFrN1Fs+rZUT5RN9zkx4qn0vyY+6tO1xNfhOkfgwkTYU1/PkktYsWw6GerMw16vX5CPdIZVfyB1A=="
-  "resolved" "https://registry.npmjs.org/react-hook-form/-/react-hook-form-7.3.4.tgz"
-  "version" "7.3.4"
+  "integrity" "sha512-T7PgHpFa4lPfVVnqm5+nDMB/CCrZ7OUBQC17ZXQ2QAZMxfc8qDbETo+Nrsd2TE5mszg6fT0bjb3EeE2DAzv7lQ=="
+  "resolved" "https://registry.npmjs.org/react-hook-form/-/react-hook-form-7.3.5.tgz"
+  "version" "7.3.5"
 
 "react-is@^16.6.0", "react-is@^16.7.0", "react-is@^16.8.0 || ^17.0.0", "react-is@^16.8.1":
   "integrity" "sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q=="
